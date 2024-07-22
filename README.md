@@ -4,6 +4,11 @@
     <br> <a href="README-en.md">English</a> | 中文
 </p>
 
+## Day 1
+chatgpt link: https://chatgpt.com/share/af76887b-8b83-4992-a672-f09356e5baa0
+
+##
+
 
 本项目旨在为所有对大型语言模型及其在生成式人工智能（AIGC）场景中应用的人们提供一站式学习资源。通过提供理论基础，开发基础，和实践示例，该项目对这些前沿主题提供了全面的指导。
 
