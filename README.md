@@ -7,6 +7,13 @@
 ## Day 1
 chatgpt link: https://chatgpt.com/share/af76887b-8b83-4992-a672-f09356e5baa0
 
+
+## Day 2
+
+### 1：添加biology_template，chinese_language_template，computer_template三个老师的描述，并补充prompt_infos的提示信息
+### 2：依次执行代码片段
+### 3：根据问题种类依次验证langchain的可行性
+
 ##
 
 
