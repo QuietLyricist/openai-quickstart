@@ -14,6 +14,9 @@ chatgpt link: https://chatgpt.com/share/af76887b-8b83-4992-a672-f09356e5baa0
 ### 2：依次执行代码片段
 ### 3：根据问题种类依次验证langchain的可行性
 
+### add arg target_language=韩语
+### set api_key,model
+
 ##
 
 
