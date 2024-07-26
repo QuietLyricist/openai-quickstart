@@ -1,11 +1,9 @@
-테스트 데이터
-이 데이터셋은 오픈AI의 AI 언어 모델인 ChatGPT에서 제공하는 두 개의 테스트 샘플을 포함하고 있습니다.
-이 샘플에는 마크다운 테이블과 영어 텍스트 단락이 포함되어 있으며, 텍스트와 테이블 형식을 모두 지원하는 영어-중국어 번역 소프트웨어를 테스트하는 데 사용할 수 있습니다.
-텍스트 테스트
-The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
-alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
-tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
-difficult to construct due to the unique characteristics of the language.
+테스트 데이터  
+이 데이터셋은 OpenAI의 AI 언어 모델인 ChatGPT에 의해 제공된 두 개의 테스트 샘플을 포함하고 있습니다. 이 샘플은 마크다운 테이블과 영어 텍스트 단락을 포함하고 있으며, 텍스트와 테이블 형식을 모두 지원하는 영어-중국어 번역 소프트웨어를 테스트하는 데 사용될 수 있습니다.
+
+텍스트 테스트  
+빠른 갈색 여우가 게으른 개를 뛰어넘습니다. 이 팬그램은 영어 알파벳의 모든 문자를 최소 한 번 포함하고 있습니다. 팬그램은 종종 글꼴, 키보드 및 기타 텍스트 관련 도구를 테스트하는 데 사용됩니다. 영어 외에도 많은 다른 언어에서도 팬그램이 존재합니다. 일부 팬그램은 언어의 독특한 특성 때문에 구성하기 더 어려울 수 있습니다.
+
 테이블 테스트
 
 ---
